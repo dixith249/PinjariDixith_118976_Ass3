@@ -1,4 +1,3 @@
-# PinjariDixith_118976_Ass3
 Folder 'graph' has '__main__.py', so it can be executed as a python module by running "python -i graph" from console when in it's directory. 
 
 It can also be launched by simply running launch.bat. 
